@@ -8,6 +8,7 @@ function Navbar() {
       <Link to="/ex1" style={{ color: 'white', marginRight: '20px', textDecoration: 'none' }}>Exercício 1</Link>
       <Link to="/ex2" style={{ color: 'white', textDecoration: 'none' }}>Exercício 2 (Efeitos)</Link>
       <Link to="/ex3" style={{ color: 'white', textDecoration: 'none' }}>Exercício 3 (Storage)</Link>
+      <Link to="/multibanco" style={{ color: 'white', textDecoration: 'none' }}>Multibanco (Redux)</Link>
     </nav>
   );
 }
